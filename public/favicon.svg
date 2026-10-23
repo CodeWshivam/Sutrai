@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#0B1020"/>
+  <!-- Glowing converging signals / sutra threads -->
+  <path d="M10 24C16 24 18 14 24 14C30 14 32 24 38 24" stroke="#43E6D3" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M10 32C16 32 19 24 24 24C29 24 32 32 38 32" stroke="#5B5CFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 2"/>
+  <circle cx="24" cy="24" r="4.5" fill="#43E6D3"/>
+  <circle cx="24" cy="24" r="2" fill="#0B1020"/>
+  <circle cx="38" cy="24" r="2.5" fill="#5B5CFF"/>
+</svg>
